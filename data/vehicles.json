@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mercedes Benz Red",
+        "type": "Car",
+        "price": "80000",
+        "image": "https:\/\/images.unsplash.com\/photo-1532281852606-8e44465fb4ee?q=80&w=2971&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Toyota Car Old",
+        "type": "Car",
+        "price": "50000",
+        "image": "https:\/\/images.unsplash.com\/photo-1529534571712-fad9a49b5ee9?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Honda Civic New",
+        "type": "Family Car",
+        "price": "70000",
+        "image": "https:\/\/images.unsplash.com\/photo-1485291571150-772bcfc10da5?q=80&w=3028&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
