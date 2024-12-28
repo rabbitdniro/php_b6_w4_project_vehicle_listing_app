@@ -16,5 +16,11 @@
         "type": "Family Car",
         "price": "70000",
         "image": "https:\/\/images.unsplash.com\/photo-1485291571150-772bcfc10da5?q=80&w=3028&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Honda SP160",
+        "type": "Bike",
+        "price": "120000",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQxEkMrawbx01_cpvG5v7JXm005krA2SiGjdw&s"
     }
 ]

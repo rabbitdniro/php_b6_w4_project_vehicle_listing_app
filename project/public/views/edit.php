@@ -1,6 +1,6 @@
 <?php
 
-require_once "../../app/VehicleManager.php";
+require_once "../../app/classes/VehicleManager.php";
 
 $vehicleManager = new VehicleManager();
 

@@ -4,7 +4,7 @@
 
 trait FileHandler {
     // Filepath property
-    private $file_path = __DIR__ . "/../data/vehicles.json";
+    private $file_path = __DIR__ . "/../../data/vehicles.json";
 
     // Method to read data from file
     public function read_from_file() {
